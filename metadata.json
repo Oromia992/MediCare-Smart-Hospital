@@ -1,0 +1,6 @@
+{
+  "name": "MediCare+ Smart Hospital",
+  "description": "A high-fidelity interactive dashboard for Medicare+ Smart Hospital, featuring an admin staff portal, automated statistics, real-time connected patient booking flow, and live status charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
